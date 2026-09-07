@@ -1,0 +1,12 @@
+streamlit
+streamlit-folium
+folium
+pandas
+networkx
+python-louvain
+scikit-learn
+matplotlib
+requests
+plotly
+reportlab
+# twilio        # uncomment if you enable real SMS in config.py (SMS_ENABLED=True)
