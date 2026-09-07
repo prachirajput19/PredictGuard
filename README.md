@@ -1,23 +1,5 @@
 # PredictGuard — Prototype (Team: Pirates Code, SIH26184)
 
-## How to combine everyone's work (do this on your laptop)
-
-1. **Unzip this folder.** It already contains a WORKING version of every
-   file so the whole thing runs end-to-end right now, even before anyone
-   sends you their code.
-
-2. **When a teammate sends you their file**, just overwrite the matching
-   file in this folder with theirs. Don't rename it, don't change its
-   location.
-   - Prachi -> `data_gen.py`, `ring_detection.py`
-   - Sehaj -> `ledger.py`, `alert_engine.py`
-   - Jeevan -> `dashboard.py`
-   - Prerna -> `lea_interface.py`
-
-3. **Never touch `app.py`** unless someone changed a function/column name
-   from what was agreed — it's the glue file and already wires everything
-   together correctly.
-
 ## How to run it (Windows / PowerShell)
 
 ```powershell
